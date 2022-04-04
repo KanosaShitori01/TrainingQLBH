@@ -1,0 +1,17 @@
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\TrainingQLBH.exe.config
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\TrainingQLBH.exe
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\TrainingQLBH.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\TrainingQLBH.frm_Main.resources
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\TrainingQLBH.Properties.Resources.resources
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\TrainingQLBH.exe
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\TrainingQLBH.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\TrainingQLBH.frm_Login.resources
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\BUS.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\DTO.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\BUS.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\DTO.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\DAL.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\bin\Debug\DAL.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\TrainingQLBH\obj\Debug\QLDA.Form1.resources

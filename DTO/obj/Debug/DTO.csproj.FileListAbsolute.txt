@@ -1,0 +1,4 @@
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DTO\bin\Debug\DTO.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DTO\bin\Debug\DTO.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DTO\obj\Debug\DTO.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DTO\obj\Debug\DTO.pdb

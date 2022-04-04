@@ -1,0 +1,9 @@
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\bin\Debug\BUS.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\bin\Debug\BUS.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\bin\Debug\DAL.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\bin\Debug\DTO.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\bin\Debug\DAL.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\bin\Debug\DTO.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\obj\Debug\BUS.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\BUS\obj\Debug\BUS.pdb

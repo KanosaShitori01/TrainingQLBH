@@ -1,0 +1,7 @@
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DAL\bin\Debug\DAL.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DAL\bin\Debug\DAL.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DAL\bin\Debug\DTO.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DAL\bin\Debug\DTO.pdb
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DAL\obj\Debug\DAL.dll
+D:\Csharp_Exams\Project Products Manager\TrainingQLBH\DAL\obj\Debug\DAL.pdb
