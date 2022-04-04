@@ -8,15 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-namespace QLDA
+namespace TrainingQLBH
 {
-    public partial class Form1 : Form
+    public partial class PB : Form
     {
        public static SqlConnection kn = new SqlConnection(@"Server=.;Database=qlda;Integrated Security=True");
        public static SqlDataAdapter SDA = new SqlDataAdapter("SELECT * FROM PHONGBAN", kn);
         CurrencyManager ct;
         DataSet ds = new DataSet();
-        public Form1()
+        public PB()
         {
             InitializeComponent();
         }

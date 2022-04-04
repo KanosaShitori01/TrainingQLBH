@@ -1,6 +1,6 @@
-﻿namespace QLDA
+﻿namespace TrainingQLBH
 {
-    partial class Form1
+    partial class PB
     {
         /// <summary>
         /// Required designer variable.

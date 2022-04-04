@@ -41,6 +41,7 @@ namespace TrainingQLBH
             Main.NDL_menuToolStrip.Enabled = true;
             Main.nhậpDanhSáchNhânViênToolStripMenuItem.Enabled = true;
             Main.nhậpPhòngBanToolStripMenuItem.Enabled = true;
+            Main.tổngHopwjToolStripMenuItem.Enabled = true;
             this.Hide();
         }
         private void frm_Login_Load(object sender, EventArgs e)
