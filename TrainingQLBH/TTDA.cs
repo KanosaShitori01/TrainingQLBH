@@ -26,9 +26,6 @@ namespace TrainingQLBH
             //buoc_cbb();
             trevew();
             buoc_cb_mada();
-
-
-
         }
         //public void buoc_luoi()
         //{
